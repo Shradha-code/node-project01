@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.2.0",
     "lodash": "^4.17.19",
     "mongoose": "^5.9.28",
     "underscore": "^1.10.2"
